@@ -1,0 +1,14 @@
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\obj\Debug\netcoreapp3.1\Месарница.csproj.AssemblyReference.cache
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\obj\Debug\netcoreapp3.1\Месарница.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\obj\Debug\netcoreapp3.1\Месарница.AssemblyInfoInputs.cache
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\obj\Debug\netcoreapp3.1\Месарница.AssemblyInfo.cs
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\obj\Debug\netcoreapp3.1\Месарница.csproj.CoreCompileInputs.cache
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\bin\Debug\netcoreapp3.1\Месарница.exe
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\bin\Debug\netcoreapp3.1\Месарница.deps.json
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\bin\Debug\netcoreapp3.1\Месарница.runtimeconfig.json
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\bin\Debug\netcoreapp3.1\Месарница.runtimeconfig.dev.json
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\bin\Debug\netcoreapp3.1\Месарница.dll
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\bin\Debug\netcoreapp3.1\Месарница.pdb
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\obj\Debug\netcoreapp3.1\Месарница.dll
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\obj\Debug\netcoreapp3.1\Месарница.pdb
+C:\Users\Кристиян\Desktop\Projects\Месарница\Месарница\obj\Debug\netcoreapp3.1\Месарница.genruntimeconfig.cache
